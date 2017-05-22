@@ -1,11 +1,11 @@
 ---
 layout: default
-modal-id: 3
-date: 2014-07-16
-img: circus.png
+modal-id: 7
+date: 2014-07-15
+img: bike_.jpg
 alt: image-alt
 project-date: April 2014
-client: DL - generative adversarial network
+client: DL - feed forward neural network
 category: Web Development
 description: Description and link will be available by 26th of may 2017
 
