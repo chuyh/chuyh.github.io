@@ -7,6 +7,6 @@ alt: image-alt
 project-date: April 2014
 client: DL - feed forward neural network
 category: Web Development
-description: Description and link will be available by 26th of may 2017
+description: Created feed-forward neural network from scratch to perform a simple regression task predicting the number of bike rentals for a given day. You can find the code <a href="https://github.com/chuyh/nn-bikes/blob/master/feed-forward-neural-network-bikes.ipynb">here</a>.
 
 ---

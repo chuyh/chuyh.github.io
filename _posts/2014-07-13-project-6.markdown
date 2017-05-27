@@ -7,6 +7,6 @@ alt: image-alt
 project-date: April 2014
 client: DL - convolutinal neural network
 category: Web Development
-description: Description and link will be available by 26th of may 2017
+description: Created convolutional neural network to classify images from the Cifar10 dataset. I used TensorFlow and tried to perform the calculation of logits doing the matrix multiplication explicitly using the TF available functions. You can find the code <a href="https://github.com/chuyh/cnn-classify-images/blob/master/CNN-Cifar10.ipynb">here</a>.
 
 ---

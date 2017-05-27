@@ -7,6 +7,6 @@ alt: image-alt
 project-date: April 2014
 client: DL - recurrent neural network
 category: Web Development
-description: Description and link will be available by 26th of may 2017
+description: Created a recurrent neural network using LSTM cells generate a script for a scene in the Simpsons - bare in mind that the script is non-sensical given the amount of data I trained with due to resources constraints. I used TensorFlow. You can find the code <a href="https://github.com/chuyh/lstm-script/blob/master/LSTM-Simpsons.ipynb">here</a>.
 
 ---
