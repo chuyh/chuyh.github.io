@@ -7,6 +7,6 @@ alt: image-alt
 project-date: April 2014
 client: DL - sequence to sequence
 category: Web Development
-description: Description and link will be available by 26th of may 2017
+description: Description and link will be available by 1st of June 2017
 
 ---
